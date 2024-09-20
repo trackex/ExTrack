@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008417808323",
+    "project_id": "extrack-6fd74",
+    "storage_bucket": "extrack-6fd74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008417808323:android:715470acfe3467c4566776",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtll74ilouWweZ2Wey-8d6LXNDWY-ckA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
